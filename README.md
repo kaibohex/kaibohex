@@ -67,7 +67,7 @@
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi) -->
 
-<img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=beanpow&show_icons=true&hide=issues&icon_color=000000&hide_border=true&title_color=5391FE&text_color=555&count_private=true"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beanpow&hide=TeX&layout=compact&hide_border=true&title_color=5391FE&text_color=555">
+<img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=kaibohex&show_icons=true&hide=issues&icon_color=000000&hide_border=true&title_color=5391FE&text_color=555&count_private=true"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaibohex&hide=TeX&layout=compact&hide_border=true&title_color=5391FE&text_color=555">
 
 
 
